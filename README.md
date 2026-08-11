@@ -6,7 +6,7 @@ This case study documents a process-improvement initiative led within **Laminair
 
 As **Production Manager and Process Improvement Lead**, I investigated a custom ductwork operation where delivery estimates depended heavily on line-leader experience. The objective was to convert product variability into a repeatable planning method supported by standard times, structured product categories, clearer capacity information, and improved operational visibility.
 
-[View the full case study (PDF)](./Laminaire_Process_Improvement_Case_Study_Final.pdf)
+[View the full case study (PDF)](Laminaire-Process-Improvement/Laminaire_Process_Improvement_Case_Study_Final.pdf)
 
 ---
 
@@ -77,19 +77,19 @@ Key outcomes included:
 
 ### Current-State vs. Future-State Process
 
-![Current-State and Future-State Process Map](./visuals/01_before_after_process_map.svg)
+![Current-State and Future-State Process Map](Laminaire-Process-Improvement/visuals/01_before_after_process_map.svg)
 
 ### Work Measurement Analysis
 
-![Standard Work Measurement Analysis](./visuals/02_work_measurement_analysis.svg)
+![Standard Work Measurement Analysis](Laminaire-Process-Improvement/visuals/02_work_measurement_analysis.svg)
 
 ### Product Classification Framework
 
-![Product Classification Framework](./visuals/03_product_classification_framework.svg)
+![Product Classification Framework](Laminaire-Process-Improvement/visuals/03_product_classification_framework.svg)
 
 ### Production Information Flow
 
-![Production Information and Continuous Improvement Flow](./visuals/04_production_information_flow.svg)
+![Production Information and Continuous Improvement Flow](Laminaire-Process-Improvement/visuals/04_production_information_flow.svg)
 
 ---
 
