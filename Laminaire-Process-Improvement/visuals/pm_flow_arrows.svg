@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1053 272" preserveAspectRatio="none">
+  <defs>
+    <marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L11,5.5 L0,11 Z" fill="#17324d"/>
+    </marker>
+  </defs>
+  <path d="M98.9,112 C98.9,174 166,216 213.8,216" fill="none" stroke="#17324d" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+  <path d="M312.7,160 C312.7,98 380,56 427.6,56" fill="none" stroke="#17324d" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+  <path d="M526.5,112 C526.5,174 594,216 641.4,216" fill="none" stroke="#17324d" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+  <path d="M740.3,160 C740.3,98 808,56 855.2,56" fill="none" stroke="#17324d" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+</svg>
