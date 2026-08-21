@@ -6,7 +6,7 @@ This case study documents a process-improvement initiative led within **Laminair
 
 As **Production Manager and Process Improvement Lead**, I investigated a custom ductwork operation where delivery estimates depended heavily on line-leader experience. The objective was to convert product variability into a repeatable planning method supported by standard times, structured product categories, clearer capacity information, and improved operational visibility.
 
-[View the full case study (PDF)](Laminaire-Process-Improvement/Laminaire_Process_Improvement_Case_Study.pdf)
+[View the full case study (PDF)](Laminaire-Process-Improvement/Laminaire Process Improvement Case Study.pdf)
 
 ---
 
